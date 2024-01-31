@@ -1,0 +1,29 @@
+.container{
+    height:100vh;
+    background-color: #F2F2F4;
+    position: relative;
+}
+
+.addButton{
+  margin-top: 35px;
+  background-color: #4F94E8;
+  color: #fff;
+  font-family: 'Montserrat';
+  padding: 15px 15px;
+  border-radius: 7px;
+  outline: none;
+  border: none;
+  box-shadow: 2px 2px 3px  #c5c5c6,-2px -2px 3px  #c5c5c6;
+  font-weight: bold;
+  cursor: pointer;
+}
+
+.overlay{
+  width: 100vw;
+    height: 100vh;
+    position: absolute;
+    background-color: rgba(0, 0, 0, .5);
+    opacity: 0.5;
+    top: 0px;
+    left: 0px;
+}

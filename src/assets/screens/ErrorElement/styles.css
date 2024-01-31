@@ -1,0 +1,18 @@
+.errorContainer{
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+.errorImageContainer{
+    width: 40%;
+    height: 40%;
+}
+
+.errorImage{
+    width: 100%;
+    aspect-ratio: auto;
+}
